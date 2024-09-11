@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=org.apache.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=maven-archetype-quickstart"/>
+        <listEntry value="archetypeVersion=1.1"/>
+        <listEntry value="groupId=ECommerce"/>
+        <listEntry value="artifactId=ECOMMERCE"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=ECommerce.ECOMMERCE"/>
+        <listEntry value="outputDirectory=/Users/ramyasri/selenium/Project1/ECommerce"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="/var/folders/x6/m1lz8knn53gd41j6qxslkkww0000gp/T/m2e-archetypeGenerator11873722947275382735"/>
+</launchConfiguration>
