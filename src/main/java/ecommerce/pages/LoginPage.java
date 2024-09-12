@@ -38,5 +38,6 @@ public class LoginPage {
 	public void goTo()
 	{
 		driver.get("https://demo.nopcommerce.com/");
-	}
+		System.out.println("test");
+}
 }
