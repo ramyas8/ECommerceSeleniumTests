@@ -13,11 +13,14 @@
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/com.github.bonigarcia/webdrivermanager -->
-<dependency>
+<!-- https://mvnrepository.com/artifact/com.github.bonigarcia/webdrivermanager -->
+ <!--
+ <dependency>
     <groupId>com.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>webdrivermanager-5.5.0</version>
-</dependency>
+    <version>webdrivermanager-5.3.1</version>
+</dependency> -->
+
 
 
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
